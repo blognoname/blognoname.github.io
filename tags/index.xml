@@ -6,9 +6,44 @@
     <description>Recent content in Tags on Sunny Sewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sunny-sewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>4) Off-grid Featherweight: Motor Mount</title>
+      <link>https://sunny-sewing.com/4-off-grid-featherweight-motor-mount/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunny-sewing.com/4-off-grid-featherweight-motor-mount/</guid>
+      <description>&lt;p&gt;The Singer featherweight is a fantastic little machine, but for carting around on the back of a bike, it is just a little bit heavy.
+One area that could benefit from some nip &amp;lsquo;n&amp;rsquo; tuck is the rather beefy motor, weighing in at around 750 gramms on my machine. Similarly the foot-pedal is a bit too well constructed for my purposes.
+My aim is to replace the original motor with a modern DC motor. Between the motor, foot-pedal and inverter, I expect the machine to lose about a kilo, which when cycling uphill could make all the difference.&lt;/p&gt;
+&lt;p&gt;There are 3 parts to this conversion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mounting the new motor and making it drive the machine&lt;/li&gt;
+&lt;li&gt;the electronics to control the motor&amp;rsquo;s speed&lt;/li&gt;
+&lt;li&gt;the design of the foot-pedal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;which I will talk about separately.
+But, take warning, although I may try to give the impression that everything was planned and thought out in a careful and compartmentalised manner, really it was a series of failed and retuned attempts.&lt;/p&gt;
+&lt;h1 id=&#34;the-motor&#34;&gt;The motor&lt;/h1&gt;
+&lt;p&gt;I opted for a 12V 755 DC motor. These are very common and are typically used for RC cars and cordless drills
+(in some corners of the internet, there is a blooming market for &amp;ldquo;broken&amp;rdquo; cordless drills - usually the problem lies within the battery) .
+These motors are compact and light : exactly what&amp;rsquo;s needed. The original motor is mounted to the machine with a single screw going through an elongated hole to allow for the belt to be tensioned.
+After an hour or so in &lt;a href=&#34;https://solvespace.com/index.pl&#34;&gt;Solvespace&lt;/a&gt; (the world&amp;rsquo;s most underrated CAD software) I had a piece of plastic 3D printed that will attach my motor to the machine using an M4 bolt.&lt;/p&gt;
+&lt;p&gt;Now the problem of making the motor turn the machine.
+Alas it is not so simple as swapping over the original motor pulley as my new motor spins significantly faster than the old one, meaning that without some kind of reduction gear, the machine runs like crazy.&lt;/p&gt;
+&lt;p&gt;Having cut myself many times before on Occam&amp;rsquo;s razor I settled on a friction gear system. This is where a larger rubber o-ring is in direct contact with the motor shaft.
+Parallel to the o-ring is a pulley, with a smaller diameter than the o-ring, which turns the original belt that goes to the handwheel. To tension the belt,
+I attached the pulley/o-ring contraption to a disc with circular slits cut into it so that it can rotate about the motor&amp;rsquo;s axis to tension the belt (here, a picture paints  thousand words).
+Two small press-fit ball bearings ensure that the pulley spins smoothly.  A problem might be that the o-ring gets worn down and may need to be frequently replaced: let&amp;rsquo;s see.&lt;/p&gt;
+&lt;p&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/drive_close.jpg&#34; width=45% /&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/drive_close_2.jpg&#34;  width=45% /&gt;&lt;/p&gt;
+&lt;p&gt;I did try using the planetary gears from a cordless drill to reduce the motor&amp;rsquo;s speed, however these gears were very noisy. Perhaps I am over-sensitive but the friction system is almost silent!&lt;/p&gt;
+</description>
+    </item>
     
     
     
@@ -54,11 +89,11 @@ If I were not a total moron, I would&amp;rsquo;ve been able to figure out that w
     
     
     <item>
-      <title>The First Post</title>
-      <link>https://sunny-sewing.com/the-first-post/</link>
+      <title>1) The First Post</title>
+      <link>https://sunny-sewing.com/1-the-first-post/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sunny-sewing.com/the-first-post/</guid>
+      <guid>https://sunny-sewing.com/1-the-first-post/</guid>
       <description>&lt;p&gt;When someone tells you they sew, you probably imagine that they spend hours hunched over a table in a corner that looks something like this:&lt;/p&gt;
 &lt;img class=&#34;special-img-class&#34; src=&#34;https://sunny-sewing.com/machine_c.jpg&#34;  width=60% /&gt;
 &lt;p&gt;A dark corner crammed with scissors, rulers, scraps of fabric and other mysterious objects that you don&amp;rsquo;t even know the names of.&lt;/p&gt;
