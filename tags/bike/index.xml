@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bike on Sunny Sewing</title>
+    <title>bike on Sew Outside</title>
     <link>https://sunny-sewing.com/tags/bike/</link>
-    <description>Recent content in bike on Sunny Sewing</description>
+    <description>Recent content in bike on Sew Outside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
@@ -13,24 +13,12 @@
     
     
     <item>
-      <title>4) Off-grid Featherweight: Motor Mount</title>
-      <link>https://sunny-sewing.com/4-off-grid-featherweight-motor-mount/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <title>5) Off-grid Featherweight: Motor Mount</title>
+      <link>https://sunny-sewing.com/5-off-grid-featherweight-motor-mount/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sunny-sewing.com/4-off-grid-featherweight-motor-mount/</guid>
-      <description>&lt;p&gt;The Singer featherweight is a fantastic little machine, but for carting around on the back of a bike, it is just a little bit heavy.
-One area that could benefit from some nip &amp;lsquo;n&amp;rsquo; tuck is the rather beefy motor, weighing in at around 750 gramms on my machine. Similarly the foot-pedal is a bit too well constructed for my purposes.
-My aim is to replace the original motor with a modern DC motor. Between the motor, foot-pedal and inverter, I expect the machine to lose about a kilo, which when cycling uphill could make all the difference.&lt;/p&gt;
-&lt;p&gt;There are 3 parts to this conversion:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;mounting the new motor and making it drive the machine&lt;/li&gt;
-&lt;li&gt;the electronics to control the motor&amp;rsquo;s speed&lt;/li&gt;
-&lt;li&gt;the design of the foot-pedal&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;which I will talk about separately.
-But, take warning, although I may try to give the impression that everything was planned and thought out in a careful and compartmentalised manner, really it was a series of failed and retuned attempts.&lt;/p&gt;
-&lt;h1 id=&#34;the-motor&#34;&gt;The motor&lt;/h1&gt;
-&lt;p&gt;I opted for a 12V 755 DC motor. These are very common and are typically used for RC cars and cordless drills
+      <guid>https://sunny-sewing.com/5-off-grid-featherweight-motor-mount/</guid>
+      <description>&lt;p&gt;I opted for a 12V 755 DC motor. These are very common and are typically used for RC cars and cordless drills
 (in some corners of the internet, there is a blooming market for &amp;ldquo;broken&amp;rdquo; cordless drills - usually the problem lies within the battery) .
 These motors are compact and light : exactly what&amp;rsquo;s needed. The original motor is mounted to the machine with a single screw going through an elongated hole to allow for the belt to be tensioned.
 After an hour or so in &lt;a href=&#34;https://solvespace.com/index.pl&#34;&gt;Solvespace&lt;/a&gt; (the world&amp;rsquo;s most underrated CAD software) I had a piece of plastic 3D printed that will attach my motor to the machine using an M4 bolt.&lt;/p&gt;
@@ -42,7 +30,54 @@ I attached the pulley/o-ring contraption to a disc with circular slits cut into 
 Two small press-fit ball bearings ensure that the pulley spins smoothly.  A problem might be that the o-ring gets worn down and may need to be frequently replaced: let&amp;rsquo;s see.&lt;/p&gt;
 &lt;p&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/drive_close.jpg&#34; width=45% /&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/drive_close_2.jpg&#34;  width=45% /&gt;&lt;/p&gt;
 &lt;p&gt;I did try using the planetary gears from a cordless drill to reduce the motor&amp;rsquo;s speed, however these gears were very noisy. Perhaps I am over-sensitive but the friction system is almost silent!&lt;/p&gt;
-&lt;p&gt;The electronics and foot-pedal will come in the next post.&lt;/p&gt;
+&lt;p&gt;So far everything is working nicely, I can sew without being plugged into the mains!&lt;/p&gt;
+&lt;p&gt;All that remains is to wait for the sun to shine and get stitching.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>4) Off-grid Featherweight: Motor Control</title>
+      <link>https://sunny-sewing.com/4-off-grid-featherweight-motor-control/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunny-sewing.com/4-off-grid-featherweight-motor-control/</guid>
+      <description>&lt;p&gt;The Singer featherweight is a fantastic little machine, but for carting around on the back of a bike, it is just a little bit heavy.
+One area that could benefit from some nip &amp;rsquo;n&amp;rsquo; tuck is the rather beefy motor, weighing in at around 750 gramms on my machine. If I can replace this with a DC motor, also won&amp;rsquo;t need the inverter anymore. The original foot-pedal won&amp;rsquo;t work with a DC motor, so I will need a new one.
+This is not a big deal because the foot-pedal is a bit too well constructed for my purposes anyway.
+Between the motor, foot-pedal and inverter, I expect the machine to lose about a kilo, which when cycling uphill could make all the difference.&lt;/p&gt;
+&lt;p&gt;There are 3 parts to this conversion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the electronics to control the motor&amp;rsquo;s speed&lt;/li&gt;
+&lt;li&gt;the design of the foot-pedal&lt;/li&gt;
+&lt;li&gt;mounting the new motor and making it drive the machine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;which I will talk about separately.
+But, take warning, although I may try to give the impression that everything was planned and thought out in a careful and compartmentalised manner, really it was a series of failed and retuned attempts.&lt;/p&gt;
+&lt;p&gt;Now its time to think about how to control a DC motor on my sewing machine. I need to have some kind of electronic circuit that is able to vary the speed of the motor nice and smoothly.
+Ideally that circuit will be matched perfectly to a foot-pedal in order to achieve the smooth control. I know hardly anything about electronics but I haven&amp;rsquo;t been electrocuted (yet).&lt;/p&gt;
+&lt;p&gt;Unfortunately, most of the motor control circuits that float around on google limit the current or voltage to get the motor to turn slowly. This is not ideal for a sewing machine as it means that when the motor is running slowly, it&amp;rsquo;s power is reduced, just at the point where you don&amp;rsquo;t want it to be - this might cause the machine to stall.
+Some circuits claim to beat this problem, but they were way too complicated for me to be able to solder together. I did consider employing a stepper motor, which doesn&amp;rsquo;t suffer from this problem. Some folks have managed to put stepper motors on sewing machines to make DIY embroidery robots: pretty cool.
+The downside of a stepper is that you need a driver circuit and they are heavier and more expensive - you win some and you lose some.&lt;/p&gt;
+&lt;p&gt;So keeping my DC motor I cobbled together a small pulse-width-modulation circuit that actually worked the first time.
+This works by turning the electricity to the motor on and off very quickly at a varying speed to alter the motor&amp;rsquo;s speed.
+My circuit used a potentiometer, essentially a knob that you turn to control the motor.
+Now the problem is converting the curved-arc motion of your foot pressing a pedal into the rotary motion needed to turn the potentiometer.&lt;/p&gt;
+&lt;p&gt;Cue sequence of 3D-printing many foot pedal designs from thingiverse&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Most of these designs used a curved gear to interface with a gear on the potentiometer. I found that in practice this interfacing was tricky to make reliable and wasn&amp;rsquo;t happy with any of the designs I saw as they seemed either too complicated to be reliable or not strong enough.
+I thought about buying a linear potentiometer, but that remained just a thought.&lt;/p&gt;
+&lt;p&gt;Then I stumbled across several designs for foot-pedals to be used in racing simulator games that seemed sturdy and simple to build
+. Instead of a pedal that where the pedal pivots around a hinge, a lever presses on a surface that is free to move around.
+Instead of the pedal moving in an arc, it moved in a straight line. I still had to find a way of turning the potentiometer.&lt;/p&gt;
+&lt;p&gt;That was until I realised that in a cordless drill, the required circuitry to make a motor go fast and slow is already there, and even better, it is controlled by a trigger that moves in a linear motion.
+The drill trigger is already neatly mounted in a little box so I really don&amp;rsquo;t have to do all that much - always the best solution.
+It is then not so hard to cannibalise a cordless drill and fit the control circuit into the 3D-printed foot-pedal. Essentially my sewing machine becomes just a glorified cordless drill.&lt;/p&gt;
+&lt;p&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/pedal1.jpg&#34; width=28% /&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/pedal2.jpg&#34;  width=34% /&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/featherweight/pedal3.jpg&#34;  width=34% /&gt;&lt;/p&gt;
+&lt;p&gt;A piece of 4-stranded wire (two for the battery and two for the motor) runs from the pedal to the machine, where it connects to a DIN socket mounted onto the machine.
+The battery then connects to a separate barrel-jack next to the pedal socket. I managed to 3D print an near perfect copy of the original plug that can house the two connectors which I am very pleased with.&lt;/p&gt;
+&lt;img  src=&#34;https://sunny-sewing.com/featherweight/plug.jpg&#34; width=45% /&gt;
+&lt;p&gt;Now its time to think about how to fasten the motor to the machine and get it all turning.&lt;/p&gt;
 </description>
     </item>
     
