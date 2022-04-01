@@ -6,18 +6,32 @@
     <description>Recent content in Posts on Sew Outside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sunny-sewing.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>5) Off-grid Featherweight: Motor Mount</title>
-      <link>https://sunny-sewing.com/5-off-grid-featherweight-motor-mount/</link>
+      <title>6) Success!</title>
+      <link>https://sunny-sewing.com/6-success/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunny-sewing.com/6-success/</guid>
+      <description>&lt;p&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/s1.jpg&#34; width=40% /&gt;&lt;img id=&#34;col&#34; src=&#34;https://sunny-sewing.com/s2.jpg&#34;  width=40% /&gt;&lt;/p&gt;
+&lt;p&gt;So everything has come together nicely. Right on cue the early spring sunshine arrived and I was able to wheel my bike outside and use my afternoon to make some small zip pouches -
+especially relaxing when you can hear the birds chirping in the background.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>5) Mounting a Motor</title>
+      <link>https://sunny-sewing.com/5-mounting-a-motor/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sunny-sewing.com/5-off-grid-featherweight-motor-mount/</guid>
+      <guid>https://sunny-sewing.com/5-mounting-a-motor/</guid>
       <description>&lt;p&gt;I opted for a 12V 755 DC motor. These are very common and are typically used for RC cars and cordless drills
 (in some corners of the internet, there is a blooming market for &amp;ldquo;broken&amp;rdquo; cordless drills - usually the problem lies within the battery) .
 These motors are compact and light : exactly what&amp;rsquo;s needed. The original motor is mounted to the machine with a single screw going through an elongated hole to allow for the belt to be tensioned.
@@ -38,11 +52,11 @@ Two small press-fit ball bearings ensure that the pulley spins smoothly.  A prob
     
     
     <item>
-      <title>4) Off-grid Featherweight: Motor Control</title>
-      <link>https://sunny-sewing.com/4-off-grid-featherweight-motor-control/</link>
+      <title>4) Making a Motor Spin Quickly and Slowly</title>
+      <link>https://sunny-sewing.com/4-making-a-motor-spin-quickly-and-slowly/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sunny-sewing.com/4-off-grid-featherweight-motor-control/</guid>
+      <guid>https://sunny-sewing.com/4-making-a-motor-spin-quickly-and-slowly/</guid>
       <description>&lt;p&gt;The Singer featherweight is a fantastic little machine, but for carting around on the back of a bike, it is just a little bit heavy.
 One area that could benefit from some nip &amp;rsquo;n&amp;rsquo; tuck is the rather beefy motor, weighing in at around 750 gramms on my machine. If I can replace this with a DC motor, also won&amp;rsquo;t need the inverter anymore. The original foot-pedal won&amp;rsquo;t work with a DC motor, so I will need a new one.
 This is not a big deal because the foot-pedal is a bit too well constructed for my purposes anyway.
