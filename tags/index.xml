@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunny-sewing on Sew Outside</title>
-    <link>https://sunny-sewing.com/</link>
-    <description>Recent content in Sunny-sewing on Sew Outside</description>
+    <title>Tags on Sew Outside</title>
+    <link>https://sunny-sewing.com/tags/</link>
+    <description>Recent content in Tags on Sew Outside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sunny-sewing.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sunny-sewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -134,6 +134,13 @@ Two small press-fit ball bearings ensure that the pulley spins smoothly.  A prob
 &lt;p&gt;I did try using the planetary gears from a cordless drill to reduce the motor&amp;rsquo;s speed, however these gears were very noisy. Perhaps I am over-sensitive but the friction system is almost silent!&lt;/p&gt;
 &lt;p&gt;So far everything is working nicely, I can sew without being plugged into the mains!&lt;/p&gt;
 &lt;p&gt;All that remains is to wait for the sun to shine and get stitching.&lt;/p&gt;
+&lt;h2 id=&#34;update&#34;&gt;UPDATE&lt;/h2&gt;
+&lt;p&gt;After sewing with the machine for a bit, some problems arose :(&lt;/p&gt;
+&lt;p&gt;Firstly, I couldn&amp;rsquo;t turn the machine by hand very easily as the friction roller didn&amp;rsquo;t like being turned from the handwheel. Secondly the plate holding the pulley wheel to the motor bent.&lt;/p&gt;
+&lt;p&gt;So instead I just 3D printed a large pulley 9cm in diameter and a small pulley 6cm in diameter. This provides enough gear down to run the machine.&lt;/p&gt;
+&lt;img  src=&#34;https://sunny-sewing.com/featherweight/drive_improved.jpg&#34; width=35% /&gt;
+&lt;p&gt;The handwheel is now too large to fit under the housing on the machine, but that&amp;rsquo;s ok.&lt;/p&gt;
+&lt;p&gt;Incase you want to 3D print this yourself, the .stl files are &lt;a href=&#34;https://sunny-sewing.com/featherweight/stls.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
